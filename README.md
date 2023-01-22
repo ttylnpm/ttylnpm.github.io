@@ -1,7 +1,4 @@
-# TTYLNPM WebSite
-<div align="center">
-... 
-&nbsp;
-
-Something's off.
-</div>
+# ttylnpm.github.io
+Termux Third Party Repository.
+## Why use the repository?
+* In progress.
